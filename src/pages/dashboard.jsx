@@ -1,7 +1,12 @@
 import React from 'react'
 
+//components
+import Welcome from '../components/welcome'
+
 export default function Dashboard() {
   return (
-    <div>dashboard</div>
+    <>
+        <Welcome />
+    </>
   )
 }

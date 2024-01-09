@@ -2,3 +2,10 @@
   height: 100vh; width: 100vw;
   display: flex; align-items: center; justify-content: center;
 }
+
+.welcomeCon{
+  height: 80px; width: 98vw;
+  display: flex; align-items: center; justify-content: space-around;
+  background-color: rgb(255, 200, 127);
+  margin: 3px auto;
+}
