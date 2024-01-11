@@ -13,7 +13,9 @@ const firebaseConfig = {
   storageBucket: "post-sharing-app.appspot.com",
   messagingSenderId: "85930620196",
   appId: "1:85930620196:web:6983187a07dcea4e126fb1",
-  measurementId: "G-NFJMM5EWGT"
+  measurementId: "G-NFJMM5EWGT",
+  storageBucket:'gs://post-sharing-app.appspot.com',
+  databaseURL: 'https://post-sharing-app-default-rtdb.firebaseio.com/'
 };
 
 // Initialize Firebase
